@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
         }else{
             Log.i("OpenCV", "successfully built !");
         }
+
+        //Add test
     }
 }
